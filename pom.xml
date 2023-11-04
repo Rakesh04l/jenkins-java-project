@@ -25,6 +25,14 @@
 			<scope>test</scope>
 		</dependency>
 
+		<dependency>
+		<groupId>org.sonarsource.sonarqube</groupId>
+		<artifactId>sonar-core</artifactId>
+		<version>10.2.1.78527</version>
+		</dependency>
+
+
+
 	</dependencies>
 	
 	<distributionManagement>
